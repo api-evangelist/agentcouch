@@ -80,13 +80,13 @@ Each property below is a page on APIs.io carrying the machine-readable artifact 
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Agentcouch Domain Security](https://apis.io/security/agentcouch/agentcouch-domain-security/)
+- [Agent Couch Domain Security](https://apis.io/security/agentcouch/agentcouch-domain-security/)
 
 #### Plans and pricing (1)
 
 Published plans, tiers and prices.
 
-- [Agentcouch Plans Pricing](https://apis.io/plans/agentcouch/agentcouch-plans-pricing/)
+- [Agent Couch Plans Pricing](https://apis.io/plans/agentcouch/agentcouch-plans-pricing/)
 
 ## Where to find this API
 
@@ -101,25 +101,25 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 20.5** — emerging · rubric 0.24.0 · scored 2026-10-17
+**Kin Score 20.9** — emerging · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 55.4 |
+| Discoverability | 58.3 |
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
 | Operational transparency | 0.0 |
 | Developer ergonomics | 23.8 |
-| Access clarity | 52.6 |
+| Access clarity | 57.4 |
 
-**Agent readiness 0.0** — human-only
+**Agent readiness 8.5** — agent-aware
 
 | Agent-readiness dimension | Result |
 |---|---|
 | Spec Presence | — |
 | Agentic Access | — |
 | Reversibility Documented | — |
-| MCP Server | — |
+| MCP Server | verified |
 | Auth Clarity | — |
 | Idempotency | — |
 | Error Semantics | — |
@@ -135,8 +135,14 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Protected Resource Metadata | — |
 | Dynamic Client Registration | — |
 | Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
-**Regulatory alignment 12.7** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 7.3** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/agentcouch/](https://apis.io/providers/agentcouch/).
 
